@@ -1,0 +1,53 @@
+ [
+        {
+        "id": "Integer",
+        "title": "String",
+        "author": "String",
+        "isbn": "Integer"
+
+      },
+      
+        {
+          "name": "Avocado Toast",
+          "price": 8
+        },
+
+      
+         {
+          "id": 1223,
+          "name": "Avocado Toast",
+          "price": 8
+        },
+      
+      {
+        "id": 1,
+        "name": "Spring Rolls",
+        "price": 6
+      },
+      {
+        "id": 2,
+        "name": "Mozzarella Sticks",
+        "price": 7
+      },
+
+      {
+        "id": 1223,
+        "name": "Avocado Toast",
+        "price": 8
+      },
+      {
+        "id": 1224,
+        "name": "Muesli and Yogurt",
+        "price": 5
+      },
+      {
+        "id": 1223,
+        "name": "Avocado Toast",
+        "price": 8
+      },
+      {
+        "name": "Avocado Toast",
+        "price": 10
+      }
+      
+]

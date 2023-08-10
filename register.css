@@ -1,0 +1,30 @@
+form {
+        display: flex;
+        flex-direction: column;
+        padding: 1rem;
+        border: 1px solid gray;
+        border-radius: 15px;
+        width: 40%;
+        height: 80vh;
+        align-items: center;
+        justify-content: space-between;
+        margin: auto;
+      }
+      form .form-control {
+        outline-style: none;
+        border: 1px solid black;
+        border-radius: 15px;
+        padding: 0.5rem;
+        width: 70%;
+      }
+      form input[type="submit"] {
+        background: rgba(228, 5, 5, 0.856);
+        border-radius: 20px;
+        padding: 1rem;
+        color: hwb(245 2% 11% / 0.527);
+        font-size: 1.2rem;
+      }
+      .error {
+        color: red;
+      }
+      
